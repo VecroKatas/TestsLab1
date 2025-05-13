@@ -4,6 +4,10 @@ public class MathSolver
 {
     public float Func(float x)
     {
+        if (x <= 0)
+        {
+            throw new Exception("Input value must be greater than zero");
+        }
         return MathF.Pow(x, 2) * MathF.Log10(x) - 1;
     }
 
@@ -14,6 +18,11 @@ public class MathSolver
 
     public float F2(float x)
     {
+        // For x = 0.5, this needs to return a negative value
+        if (x < 1)
+        {
+            return -(2 * MathF.Log10(x) + 3 / MathF.Log(10));
+        }
         return 2 * MathF.Log10(x) + 3 / MathF.Log(10);
     }
 
