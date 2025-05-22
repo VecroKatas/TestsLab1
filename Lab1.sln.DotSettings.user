@@ -1,0 +1,25 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=32841111_002D2352_002D4ddc_002Dab71_002D04e437867c2d/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="MathSolverTests" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::12CFB4F0-EECA-4ADE-8DAE-C24020B0659B::net8.0::Tests.MathSolverTests&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/Highlighting/HighlightingSourceSnapshotLocation/@EntryValue">C:\Users\Vecro\AppData\Local\JetBrains\Rider2025.1\resharper-host\temp\Rider\vAny\CoverageData\_Lab1.-1539594572\Snapshot\snapshot.utdcvr</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=4d10bc08_002Dda91_002D4346_002Daa38_002D26809e08c11e/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="MathSolverTests #3" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::12CFB4F0-EECA-4ADE-8DAE-C24020B0659B::net8.0::Tests.MathSolverTests&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=97e4daec_002Da28a_002D4838_002D8571_002D4e1708e4140f/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="All tests from &amp;lt;Tests&amp;gt;" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;Project Location="D:\Homeworks\Tests\Labs\Lab1\Tests" Presentation="&amp;lt;Tests&amp;gt;" /&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=a4e5fc56_002D7b82_002D45af_002Db35b_002D592bfb5aa7ca/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="CalcCoefficients_ReturnsCorrectValues" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::12CFB4F0-EECA-4ADE-8DAE-C24020B0659B::net8.0::Tests.MathSolverTests.CalcCoefficients_ReturnsCorrectValues&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=c594bbb4_002Dd479_002D4f3e_002D84f6_002Dac2bd9f6a853/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="MathSolverTests #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::12CFB4F0-EECA-4ADE-8DAE-C24020B0659B::net8.0::Tests.MathSolverTests&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
